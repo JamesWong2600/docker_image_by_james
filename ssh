@@ -1,4 +1,0 @@
-screen -S dockerg1_1
-docker run minebotg1_4
-screen -S dockerg1_2
-screen -S dockerg1_3
